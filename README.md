@@ -4,7 +4,7 @@ Softtek panel for grafana 6+ & 7+, coding with react.
 
 Code editor is attached in the edit panel to configure the option of echarts.
 
-![image](https://github.com/saterunholy/piechart-template1/blob/master/doc/piechart2.png)
+![image](https://github.com/saterunholy/piechart-template2/blob/master/doc/piechart2.png)
 
 ## How Use
 
