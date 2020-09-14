@@ -65,14 +65,14 @@ return {
             center: ['50%', '50%'],
             roseType: 'area',
             data: [
-                {value: 10, name: 'Data1', itemStyle: {color: '#195292'}},
-                {value: 5, name: 'Data2', itemStyle: {color: '#19923C'}},
-                {value: 15, name: 'Data3', itemStyle: {color: '#195292'}},
-                {value: 25, name: 'Data4', itemStyle: {color: '#19923C'}},
-                {value: 20, name: 'Data5', itemStyle: {color: '#195292'}},
-                {value: 35, name: 'Data6', itemStyle: {color: '#19923C'}},
-                {value: 30, name: 'Data7', itemStyle: {color: '#195292'}},
-                {value: 40, name: 'Data8', itemStyle: {color: '#19923C'}}
+                {value: 10, name: 'Data1', itemStyle: {color: '#CB4482'}},
+                {value: 5, name: 'Data2', itemStyle: {color: '#44C5CB'}},
+                {value: 15, name: 'Data3', itemStyle: {color: '#CB4482'}},
+                {value: 25, name: 'Data4', itemStyle: {color: '#44C5CB'}},
+                {value: 20, name: 'Data5', itemStyle: {color: '#CB4482'}},
+                {value: 35, name: 'Data6', itemStyle: {color: '#44C5CB'}},
+                {value: 30, name: 'Data7', itemStyle: {color: '#CB4482'}},
+                {value: 40, name: 'Data8', itemStyle: {color: '#44C5CB'}}
             ]
     },
   ],
